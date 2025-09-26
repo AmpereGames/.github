@@ -13,4 +13,4 @@ Pixane is our little “studio in the cloud,” focused on exploring game design
 Everything here is built with passion, curiosity, and the goal of making cool things to play with.  
 
 ---
-🚀 Stay tuned — more projects coming soon!
+🚀 Stay tuned — projects coming soon!
