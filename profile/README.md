@@ -9,7 +9,7 @@ This is where we share our games, plugins, and experiments built with love for c
 - ✨ **Experiments** – trying out new ideas, features, and mechanics.  
 
 ## About
-Pixane is our little “studio in the cloud,” focused on exploring game design and development.  
+Ampere is our little “studio in the cloud,” focused on exploring game design and development.  
 Everything here is built with passion, curiosity, and the goal of making cool things to play with.  
 
 ---
