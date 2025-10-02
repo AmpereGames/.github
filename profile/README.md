@@ -1,4 +1,4 @@
-# Pixane 🎮
+# Ampere Games 🎮
 
 Welcome to **Ampere** — a home for game development projects and tools.  
 This is where we share our games, plugins, and experiments built with love for creativity and technology.  
