@@ -1,6 +1,6 @@
 # Pixane 🎮
 
-Welcome to **Pixane** — a home for game development projects and tools.  
+Welcome to **Ampere** — a home for game development projects and tools.  
 This is where we share our games, plugins, and experiments built with love for creativity and technology.  
 
 ## What you’ll find here
